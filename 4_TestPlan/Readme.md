@@ -24,5 +24,5 @@
 |L_10|	Checking the result obtained for factorial, exponential, log, power	|By giving different values|	Correct answer according to the input values|	----------------	|Requirement based|
 |L_11	|Checking the result obtained for exponential function where given number is large negative value|	By giving large negative value	|Printing the message as, "Error, Result cannot be printed"|	----------------	|Boundary based|
 |L_12|	Checking the result obtained for factorial, exponential, power where input value is very large	|By giving large value	|Printing the message as, "Error, Result cannot be printed"|	----------------|	Boundary based|
-|L_13|	Checking the result obtained for log where input value is negative|	By giving negative value	Printing the message as, "Error, number cannot be negative"|	----------------	|Scenario based|
+|L_13|	Checking the result obtained for log where input value is negative|	By giving negative value|	Printing the message as, "Error, number cannot be negative"|	----------------	|Scenario based|
 |L_14	|Checking whether exit option works properly or not	|By selecting the correct option|	Screen should be closed	|----------------	|Scenario based
