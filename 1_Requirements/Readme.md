@@ -18,16 +18,16 @@ Cost is very much concerned when we are going to make an project here the cost a
 * Subtraction : The subtraction (diff function) is used by choosing the "-" operand using the keyboard. The function results in a-b.
 * Multiplication : The multiplication (mul function) is used by choosing the "*" operand using the keyboard. The function results in ab.
 * Division : The division (div function) is used by choosing the "/" operand using the keyboard. The function results in a/b.
-> Square: This can be done by choosing "sq" symbol.
-> Cube: This can be done by choosing "cb" symbol.
-> Square_root: This can be done by choosing "sqr" symbol.
-> Cube_root: This can be done by choosing "cbr" symbol.
-> Simple Interest : The simple interest (simple_interest function) is found by choosing "1". The function results in (ptr)/100. Where p is initial principal balance, r is rate   of   interest, t is number of time periods elapsed.
-> Natural Exponential : The natural exponential (e raised to the x) is used by choosing "1" which results e^x or exp(). The result is e (2.71828...) raised to x.
-> Logarithm : The logarithm (LOG) is used by choosing "2" which results LOG() where base is 10.
-> Factorial : The Factorial function is used by choosing "3" which results x!=x*(x-1)...2*1.
-> Power function : The raise to the power (y_raised_to_x function) is used by choosing "4" which results y^x.
-> Temperature coverter: It converts the temperature respectively.
+* Square: This can be done by choosing "sq" symbol.
+* Cube: This can be done by choosing "cb" symbol.
+* Square_root: This can be done by choosing "sqr" symbol.
+* Cube_root: This can be done by choosing "cbr" symbol.
+* Simple Interest : The simple interest (simple_interest function) is found by choosing "1". The function results in (ptr)/100. Where p is initial principal balance, r is rate   of   interest, t is number of time periods elapsed.
+* Natural Exponential : The natural exponential (e raised to the x) is used by choosing "1" which results e^x or exp(). The result is e (2.71828...) raised to x.
+* Logarithm : The logarithm (LOG) is used by choosing "2" which results LOG() where base is 10.
+* Factorial : The Factorial function is used by choosing "3" which results x!=x*(x-1)...2*1.
+* Power function : The raise to the power (y_raised_to_x function) is used by choosing "4" which results y^x.
+* Temperature coverter: It converts the temperature respectively.
 
 <h2> Defining System </h2>
 
