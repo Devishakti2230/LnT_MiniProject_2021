@@ -14,10 +14,10 @@ Cost is very much concerned when we are going to make an project here the cost a
 
 <h2> Features </h2>
 
-> Addition : The addition (sum function) is used by choosing the "+" operand using the keyboard. The function results in a+b.
-> Subtraction : The subtraction (diff function) is used by choosing the "-" operand using the keyboard. The function results in a-b.
-> Multiplication : The multiplication (mul function) is used by choosing the "*" operand using the keyboard. The function results in ab.
-> Division : The division (div function) is used by choosing the "/" operand using the keyboard. The function results in a/b.
+* Addition : The addition (sum function) is used by choosing the "+" operand using the keyboard. The function results in a+b.
+* Subtraction : The subtraction (diff function) is used by choosing the "-" operand using the keyboard. The function results in a-b.
+* Multiplication : The multiplication (mul function) is used by choosing the "*" operand using the keyboard. The function results in ab.
+* Division : The division (div function) is used by choosing the "/" operand using the keyboard. The function results in a/b.
 > Square: This can be done by choosing "sq" symbol.
 > Cube: This can be done by choosing "cb" symbol.
 > Square_root: This can be done by choosing "sqr" symbol.
@@ -56,18 +56,18 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 
 |ID|Description|Status|
 |:-----:|:-----:|:-----:|
-|HR_01|Operating System (Windows 10/Linux)|Implemented|
-|HR_02|C language|Implemented|
+|HR_01|Operating System (Windows 10/Linux)|Continue|
+|HR_02|C language|Continue|
 
 <h3> Low Level Requirements </h3>
 
 |ID|Description|Status|
 |:----:|:----:|:-----:|
-|LR_01|Using Addition, Subtraction, Multiplication, Division functions|Continue
-|LR_02|Using functions to find sqaure, cube, square-root, cube-root|Continue
-|LR_03|Using functions to find factorial, power|Continue
-|LR_04|Using functions to find simple and compound interests and total amount|Continue
-|LR_05|Using functions to find logarithm,exponential|Continue
-|LR_06|Using functions to find converted tempreature|Continue
+|LR_01|Using Addition, Subtraction, Multiplication, Division functions|Continue|
+|LR_02|Using functions to find sqaure, cube, square-root, cube-root|Continue|
+|LR_03|Using functions to find factorial, power|Continue|
+|LR_04|Using functions to find simple and compound interests and total amount|Continue|
+|LR_05|Using functions to find logarithm,exponential|Continue|
+|LR_06|Using functions to find converted tempreature|Continue|
 
 
