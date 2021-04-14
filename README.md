@@ -1,7 +1,5 @@
-![Image of Calculator](https://octodex.github.com/Devishakti2230/LnT_MiniProject_2021/images/png-clipart-scientific-calculator-casio-graphic-calculators-calculator-input-methods-calculator-s-electronics-calculator.png)
+![png-clipart-scientific-calculator-casio-graphic-calculators-calculator-input-methods-calculator-s-electronics-calculator](https://user-images.githubusercontent.com/62944627/114741606-8e084b80-9d68-11eb-8b9a-de0952064ce9.png)
 
-This Project includes construction of a calculator application with all sorts of functionality.
 
-Folder Structure:-
 
 
