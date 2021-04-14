@@ -37,14 +37,6 @@ double simple_interest(fin_opt* sim_opt){
     return (sim_opt->principal_amount * sim_opt->time_of_period * sim_opt->rate_of_interest)/100;
 }
 
-double compound_interest(fin_opt* com_opt)
-{
-    return com_opt->principal_amount * (pow((1 + com_opt->rate_of_interest / 100), com_opt->time_of_period));
-}
-
-double total_amount(double principal_amount, double interest_amount){
-    return principal_amount+interest_amount;
-}
 
 double fact(int operand1){
     int i,f=1;
