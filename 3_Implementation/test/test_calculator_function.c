@@ -269,5 +269,5 @@ int main()
     RUN_TEST(test_sin);
     RUN_TEST(test_cos);
     RUN_TEST(test_tan);
-	return UNITY_END();
+	return UNITY_END(); 
 }
