@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "header.h"
+#include "calculator_function.h"
 #include<math.h>
 
 /**
