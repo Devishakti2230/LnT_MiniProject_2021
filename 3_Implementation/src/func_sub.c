@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "header.h"
+#include "calculator_function.h"
 
 /**
  * @brief sub function which returns the desired result using answer variable
