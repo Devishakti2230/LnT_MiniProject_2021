@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-#include"header.h"
+#include"calculator_function.h"
 
 error sinn(calc_st n,result_t* answer)
 {
