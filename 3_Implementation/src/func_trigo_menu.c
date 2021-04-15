@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"header.h"
+#include"calculator_function.h"
 
 static result_t ans={0};
 
