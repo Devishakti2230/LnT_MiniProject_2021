@@ -66,4 +66,4 @@ coverageCheck:
 
 #command to clean the files
 clean:
-	del *.$(EXEC)
+	del *.$(EXEC) 
