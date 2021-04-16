@@ -7,7 +7,7 @@
 calculator_arithmetic value;
 calculator_arithmetic_1 value_1;
 static result ans={0};
-static result anss={0};
+static result_1 anss={0};
 calculator_special values;
 calculator_special_1 values_1;
 
