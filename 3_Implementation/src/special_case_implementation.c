@@ -6,6 +6,7 @@
 
 
 static result ans={0};
+static result_1 anss={0};
 void special_operation()
 {
     /**
@@ -13,6 +14,7 @@ void special_operation()
      * 
      */
     calculator_special value;
+    calculator_special_1 value_1;
     int choice=-1;
     int local_value;
     printf("\n1. Square\n2. Square_root\n3. Cube\n4. Cube_root\n5. Logarithm,\n6. Factorial\n7. Exit\n");
