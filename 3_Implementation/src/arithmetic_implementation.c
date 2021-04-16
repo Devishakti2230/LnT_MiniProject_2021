@@ -42,7 +42,7 @@ void arthmetic_operation()
             printf("\n");
             break;
 			
-			case SUB:
+	    case SUB:
             sub(value,&ans);
             printf("\nThe subtraction is: %.2f",ans.final_answer);
             printf("\n");
@@ -60,13 +60,13 @@ void arthmetic_operation()
             printf("\n");
             break;
 			
-			case MOD:
+	    case MOD:
             modd(value,&ans);
             printf("\nThe modulous is: %.2f",ans.final_answer);
             printf("\n");
             break;
 			
-		    case POW:
+            case POW:
             power(value,&ans);
             printf("\nThe power result is: %.2f",ans.final_answer);
             printf("\n");
