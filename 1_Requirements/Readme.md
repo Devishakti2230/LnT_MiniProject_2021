@@ -32,22 +32,29 @@ Cost is very much concerned when we are going to make an project here the cost a
 This system includes the basic operations along with health, and advanced mathematical application which works in one way.
 
 <h2> SWOT Analysis <h2>
+  
 <h3>Strength<h3>
+  
 * Resource availability
 * Track Records
 * Known past systems
 * Precise
+
 <h3>Weakness</h3>
+  
 * Gaps in knowledge and implementation
 * Process and system
 * Completing Projects
 * Unforeseen problems
 <h3>Opportunities</h3>
+  
 * Improve safety
 * Skill advancement
 * Emerging and developing market
 * Changing patterns
+
 <h3>Threats</h3>
+  
 * Competitor Activities
 * Academic work
 * Scope creep
