@@ -9,5 +9,10 @@
 
 <h2>Table no: Low level test plan</h2>
 
+|Test ID	|Description	|HL ID|	Exp IN	|Exp OUT	|Actual Output	|Type Of Test|
+|:----:|:-----:|:-----:|:------:|:--------:|:--------:|:-------:|
+|L_01|  Arthmetic operation '+'|	H_01|	add()|	TRUE|TRUE|	Requirement based|
+
+
 
 
