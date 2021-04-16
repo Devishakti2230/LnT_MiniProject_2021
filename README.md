@@ -28,7 +28,7 @@ Contributor
 |SI_No	|Features|
 |:-----:|:------:|
 |F1|	Calculating the arithmetic operations like add, sub, mul, divison, modulous etc.|
-|F2|	Calculating the Specific operations like square,square_roo etc. |
+|F2|	Calculating the Specific operations like square,square_root, factorial, power etc. |
 |F3|	Unit Testing the code with various testcases|
 |F4|	Building the all workflows In Git|
 |F5|	Checking the static and dynamic code check|
@@ -41,6 +41,7 @@ Challenges Faced:
    * Fcaing issue in building part but it resolves now.
    * Facing issue in Using git tools and git workflow but now it covercomes.
 
-
-
+Reference link:
+   https://guides.github.com/features/mastering-markdown/
+   https://lab.github.com/
 
