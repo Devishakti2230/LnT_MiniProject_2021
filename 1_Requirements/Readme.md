@@ -31,9 +31,9 @@ Cost is very much concerned when we are going to make an project here the cost a
 
 This system includes the basic operations along with health, and advanced mathematical application which works in one way.
 
-<h2> SWOT Analysis <h2>
+<h2> SWOT Analysis </h2>
   
-<h3>Strength<h3>
+<h3>Strength</h3>
   
 * Resource availability
 * Track Records
