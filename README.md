@@ -20,7 +20,10 @@ This is a calculator which includes basic operations like addition, subtraction,
 |3_Implementation|All code and documentation|
 |4_TestPlan|Documents with test plans and procedures|
 
-Contributoras
+Contributor
+|PS No.|	Name|	Features	|Issuess Raised	|Issues Resolved|	No Test Cases	|Test Case Pass|
+|:-----:|:----:|:------:|:------:|:------:|:-----:|:-------:|
+|260292|	Devishakti Jyotishankar Behera|	Complex calcultor|	2|	2	|9|	9|
 
 
 
