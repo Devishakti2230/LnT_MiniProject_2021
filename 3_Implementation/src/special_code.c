@@ -89,6 +89,7 @@ check factorial(calculator_special_1 n,result_1* answer)
         for (i = 1; i <= n.number; ++i) {
             fact *= i;
         }
+    }
     answer->final_answer=fact;
     return SUCCESS;
 }
