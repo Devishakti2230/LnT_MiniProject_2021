@@ -107,13 +107,13 @@ void special_operation(void);
 check add(calculator_arithmetic n,result* answer);
 check sub(calculator_arithmetic n,result* answer);
 check mul(calculator_arithmetic n,result* answer);
-check div(calculator_arithmetic n,result* answer);
-check mod(calculator_arithmetic_1 n,result_1* answer);
+check divv(calculator_arithmetic n,result* answer);
+check modd(calculator_arithmetic_1 n,result_1* answer);
 check power(calculator_arithmetic n,result* answer);
 check sqrr(calculator_special n,result* answer);
 check sqrtt(calculator_special n,result* answer);
 check cubee(calculator_special n,result* answer);
 check cubert(calculator_special n,result* answer);
-check log(calculator_special n,result* answer);
+check logg(calculator_special n,result* answer);
 check factorial(calculator_special_1 n,result_1* answer);
 #endif
