@@ -43,10 +43,13 @@ Challenges Faced:
    * Facing issue in Using git tools and git workflow but now it covercomes.
 
 <h2> Usages of Commands </h2>
-* For Building the main application
-make create
-* For Running the main application
-make run
+
+|SI_No|Commands Description|commands|
+|:----:|:-----:|:-----:|
+|1|For Building the main application| make create|
+ |2|For Running the main application| make run|
+
+<h2> References </h2>
 
    |Reference link:|
    |:------:|
