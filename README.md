@@ -42,6 +42,12 @@ Challenges Faced:
    * Fcaing issue in building part but it resolves now.
    * Facing issue in Using git tools and git workflow but now it covercomes.
 
+<h2> Usages of Commands </h2>
+* For Building the main application
+make create
+* For Running the main application
+make run
+
    |Reference link:|
    |:------:|
    |https://guides.github.com/features/mastering-markdown/|
