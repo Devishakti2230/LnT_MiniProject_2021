@@ -81,7 +81,7 @@ check logg(calculator_special n,result* answer)
  */
 check factorial(calculator_special_1 n,result_1* answer)
 {
-	int fact=1;
+	int fact=1,i;
 	printf("Please Enter an integer\n");
 	if (n.number < 0)
         printf("Error! Factorial of a negative number doesn't exist. Please Enter a positive number");
