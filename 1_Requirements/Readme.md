@@ -52,10 +52,11 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 
 <h3> High Level Requirements </h3>
 
-|ID|Description|Status|
-|:-----:|:-----:|:-----:|
-|HR_01|Operating System (Windows 10/Linux)|Completed|
-|HR_02|C language|Completed|
+|ID|	Description|	Category	|status|
+|:----:|:-----:|:-----:|:------:|
+|H001|	A user should be able to perform arithmetic operations	|Technical	|Implemented|
+|H002	|A user should be able to perform specific operations|	Technical	|Implemented|
+
 
 <h3> Low Level Requirements </h3>
 
