@@ -210,7 +210,7 @@ void test_cubrt(void)
      * 
      */
     values.number=125;
-    cubertt(values,&ans);
+    cubert(values,&ans);
     TEST_ASSERT_EQUAL(5,ans.final_answer);
 }
 
@@ -235,7 +235,7 @@ void test_fact(void)
      * 
      */
     values_1.number=5;
-    sqrtt(values_1,&anss);
+    fact(values_1,&anss);
     TEST_ASSERT_EQUAL(120,anss.final_answer);
   
    
