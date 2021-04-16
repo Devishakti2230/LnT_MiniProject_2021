@@ -1,17 +1,8 @@
-files= src/func_add.c\
-src/func_sub.c\
-src/func_mul.c\
-src/func_div.c\
-src/func_log.c\
-src/func_power.c\
-src/func_sqrt.c\
-src/func_arthmetic_menu.c\
-src/func_main_menu.c\
-src/func_scientific_menu.c\
-src/func_sin.c\
-src/func_cos.c\
-src/func_tan.c\
-src/func_trigo_menu.c\
+files= src/arithmetic.c\
+src/arithmetic_implementation.c\
+src/special_code.c\
+src/special_case_implementation.c\
+src/main_implementation.c
 
 #variables declaration
 
