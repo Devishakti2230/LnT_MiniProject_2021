@@ -20,9 +20,19 @@
 |L_07|  Arthmetic operation '*'|	H_01|	mul()|	TRUE|TRUE|	Requirement based|
 |L_08|  Arthmetic operation '*'|	H_01|	mul()|	TRUE|TRUE|	scenario based|
 |L_09|  Arthmetic operation '*'|	H_01|	mul()|	TRUE|TRUE|	boundary based|
-|L_01|  Arthmetic operation '+'|	H_01|	add()|	TRUE|TRUE|	Requirement based|
-|L_02|  Arthmetic operation '+'|	H_01|	add()|	TRUE|TRUE|	scenario based|
-|L_03|  Arthmetic operation '+'|	H_01|	add()|	TRUE|TRUE|	boundary based|
+|L_10|  Arthmetic operation '/'|	H_01|	divv()|	TRUE|TRUE|	Requirement based|
+|L_11|  Arthmetic operation '/'|	H_01|	divv()|	TRUE|TRUE|	scenario based|
+|L_12|  Arthmetic operation '%'|	H_01|	modd()|	TRUE|TRUE|	Requirement based|
+|L_13|  Special operation Power|	H_02|	power()|	TRUE|TRUE|	Requirement based|
+|L_14|  Special operation Power|	H_02|	power()|	TRUE|TRUE|	scenario based|
+|L_15|  Special operation square|	H_02|	sqr()|	TRUE|TRUE|	Requirement based|
+|L_16|  Special operation square_root|	H_02|	sqrtt()|	TRUE|TRUE|	Requirement based|
+|L_17|  Special operation cube|	H_02|	cubee()|	TRUE|TRUE|	Requirement based|
+|L_18|  Special operation cube_root|	H_02|	cubert()|	TRUE|TRUE|	Requirement based|
+|L_19|  Special operation logarithm|	H_02|	logg()|	TRUE|TRUE|	Requirement based|
+|L_20|  Special operation factorial|	H_02|	factorial()|	TRUE|TRUE|	Requirement based|
+
+
 
 
 
