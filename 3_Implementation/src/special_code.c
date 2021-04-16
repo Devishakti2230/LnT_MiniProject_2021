@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include "calculator_function.h"
 #include<math.h>
+#include<stdlib.h>
 
 
 /**
