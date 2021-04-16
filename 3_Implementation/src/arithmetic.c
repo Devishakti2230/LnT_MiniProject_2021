@@ -51,7 +51,7 @@ check mul(calculator_arithmetic n,result* answer)
  * @return check
  */
 
-check div(calculator_arithmetic n,result* answer)
+check divv(calculator_arithmetic n,result* answer)
 {
     if(n.number_1==0 || n.number_2==0)
     {
@@ -66,14 +66,14 @@ check div(calculator_arithmetic n,result* answer)
 }
 
 /**
- * @brief mod function which returns the desired result using answer variable
+ * @brief modd function which returns the desired result using answer variable
  * 
  * @param n 
  * @param answer 
  * @return check 
  */
 
-check mod(calculator_arithmetic n,result* answer)
+check modd(calculator_arithmetic_1 n,result_1* answer)
 {
     answer->final_answer=n.number_1%n.number_2;
     return SUCCESS;
