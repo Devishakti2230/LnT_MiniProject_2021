@@ -41,7 +41,8 @@ Challenges Faced:
    * Fcaing issue in building part but it resolves now.
    * Facing issue in Using git tools and git workflow but now it covercomes.
 
-Reference link:
-   https://guides.github.com/features/mastering-markdown/
-   https://lab.github.com/
+   |Reference link:|
+   |:------:|
+   |https://guides.github.com/features/mastering-markdown/|
+   |https://lab.github.com/|
 
