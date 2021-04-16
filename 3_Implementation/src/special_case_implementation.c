@@ -14,7 +14,7 @@ void special_operation()
      */
     calculator_special value;
     int choice=-1;
-    int local_value1,local_value2;
+    int local_value;
     printf("\n1. Square\n2. Square_root\n3. Cube\n4. Cube_root\n5. Logarithm,\n6. Factorial\n7. Exit\n");
     scanf("%d",&choice);
     if(choice>=1 && choice<=7)
@@ -46,7 +46,7 @@ void special_operation()
             sqrtt(value,&ans);
             printf("%.2f",ans.final_answer);
 			
-			case CUBRT:
+	    case CUBRT:
             logg(value,&ans);
             printf("%.2f",ans.final_answer);
             break;
