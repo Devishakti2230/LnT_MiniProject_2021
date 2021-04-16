@@ -97,8 +97,7 @@ enum special_code
     CUB=3,
     CUBRT=4,
     LOG=5,
-    FACT=6,
-    EXIT=7
+    FACT=6
 };
 
 
