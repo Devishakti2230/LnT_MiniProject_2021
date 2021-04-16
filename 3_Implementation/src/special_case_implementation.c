@@ -66,7 +66,7 @@ void special_operation()
             break;
 
             case LOG:
-            logg(valuee,&ans);
+            logg(value,&ans);
             printf("%.2f",ans.final_answer);
             break;
             
