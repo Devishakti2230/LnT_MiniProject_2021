@@ -5,8 +5,11 @@
 #include<stdlib.h>
 
 calculator_arithmetic value;
+calculator_arithmetic_1 value_1;
 static result ans={0};
+static result anss={0};
 calculator_special values;
+calculator_special_1 values_1;
 
 void setUp(void) {}
 /* Required by the unity test framework */
@@ -138,10 +141,10 @@ void test_mod(void)
      * 
      */
     
-    value.number_1=3889;
-    value.number_2=24;
-    divv(value,&ans);
-	TEST_ASSERT_EQUAL(1,ans.final_answer);
+    value_1.number_1=3889;
+    value_1.number_2=24;
+    modd(value_1,&anss);
+	TEST_ASSERT_EQUAL(1,anss.final_answer);
 
 
 }
@@ -173,8 +176,8 @@ void test_sqr(void)
      * @brief requirment based test case.
      * 
      */
-     valuee.number=8;
-     logg(values,&ans);
+     values.number=8;
+     sqrr(values,&ans);
      TEST_ASSERT_EQUAL(64,ans.final_answer);
 }
 
@@ -184,7 +187,7 @@ void test_sqrt(void)
      * @brief requirment based
      * 
      */
-    valuee.number=24;
+    values.number=24;
     sqrtt(values,&ans);
     TEST_ASSERT_EQUAL(4.90,ans.final_answer);
 }
@@ -195,8 +198,8 @@ void test_cub(void)
      * @brief requirment based test case.
      * 
      */
-     valuee.number=4;
-     logg(values,&ans);
+     values.number=4;
+     cubee(values,&ans);
      TEST_ASSERT_EQUAL(64,ans.final_answer);
 }
 
@@ -206,8 +209,8 @@ void test_cubrt(void)
      * @brief requirment based
      * 
      */
-    valuee.number=125;
-    sqrtt(values,&ans);
+    values.number=125;
+    cubertt(values,&ans);
     TEST_ASSERT_EQUAL(5,ans.final_answer);
 }
 
@@ -217,7 +220,7 @@ void test_log(void)
      * @brief requirment based test case.
      * 
      */
-     valuee.number=8869;
+     values.number=8869;
      logg(values,&ans);
      TEST_ASSERT_EQUAL(3.95,ans.final_answer);
 
@@ -231,9 +234,9 @@ void test_fact(void)
      * @brief requirment based
      * 
      */
-    valuee.number=5;
-    sqrtt(values,&ans);
-    TEST_ASSERT_EQUAL(120,ans.final_answer);
+    values_1.number=5;
+    sqrtt(values_1,&anss);
+    TEST_ASSERT_EQUAL(120,anss.final_answer);
   
    
 }
@@ -246,7 +249,7 @@ int main()
 	 * @brief Construct a new unity begin object
 	 * 
 	 */
-	UNITY_BEGIN();
+     UNITY_BEGIN();
     RUN_TEST(test_add);
     RUN_TEST(test_sub);
     RUN_TEST(test_mul);
