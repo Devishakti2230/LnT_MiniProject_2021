@@ -235,7 +235,7 @@ void test_fact(void)
      * 
      */
     values_1.number=5;
-    fact(values_1,&anss);
+    factorial(values_1,&anss);
     TEST_ASSERT_EQUAL(120,anss.final_answer);
   
    
