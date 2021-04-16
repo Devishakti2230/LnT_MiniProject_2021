@@ -59,7 +59,8 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 
 
 <h3> Low Level Requirements </h3>
-
+|ID	|Description|	HL_ID	|status|
+|:----:|:------:|:-----:|:------:|
 |L_01|	A user should performs the ' + ' operation to find sum of two numbers|	H_01|	Implemented|
 |L_02|	A user should performs the ' - ' operation to find subtraction of two numbers|	H_01|	Implemented|
 |L_03|	A user should performs the ' * ' operation to find multiplication of two numbers|	H_01|	Implemented|
