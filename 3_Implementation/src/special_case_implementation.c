@@ -52,7 +52,7 @@ void special_operation()
             break;
 
             case SQRT:
-            sqrtt(valuee,&ans);
+            sqrtt(value,&ans);
             printf("%.2f",ans.final_answer);
             break;
             
