@@ -6,7 +6,7 @@
 void main_operation()
 {
     int n;
-    printf("\n=======*** WELCOME TO THE SCIENTIFIC CALCULATOR APPLICATION ***======\n");
+    printf("\n=======*** WELCOME TO CALCULATOR ***======\n");
     printf("1.Arithmetic operations\n");
     printf("2.Special operations\n");
 	printf("\n Choose an option\n");
