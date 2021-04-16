@@ -78,7 +78,7 @@ check logg(calculator_special n,result* answer)
  * @param answer 
  * @return check 
  */
-check factorial(calculator_special n,result* answer)
+check factorial(calculator_special_1 n,result_1* answer)
 {
 	int fact=1;
 	printf("Please Enter an integer\n");
