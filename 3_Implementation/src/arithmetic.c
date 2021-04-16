@@ -75,7 +75,7 @@ check div(calculator_arithmetic n,result* answer)
 
 check mod(calculator_arithmetic n,result* answer)
 {
-    answer->final_answer=n.number1%n.number_2;
+    answer->final_answer=n.number_1%n.number_2;
     return SUCCESS;
 }
 
