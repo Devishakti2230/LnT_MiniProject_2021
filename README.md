@@ -26,6 +26,7 @@ Contributor
 |260292|	Devishakti Jyotishankar Behera|	F1,F2,F3,F4,F5.F6,F7,F8|	3|	3	|12|	12|
 
 |SI_No	|Features|
+|:-----:|:------:|
 |F1|	Calculating the arithmetic operations like add, sub, mul, divison, modulous etc.|
 |F2|	Calculating the Specific operations like square,square_roo etc. |
 |F3|	Unit Testing the code with various testcases|
