@@ -31,6 +31,28 @@ Cost is very much concerned when we are going to make an project here the cost a
 
 This system includes the basic operations along with health, and advanced mathematical application which works in one way.
 
+<h2> SWOT Analysis <h2>
+<h3>Strength<h3>
+* Resource availability
+* Track Records
+* Known past systems
+* Precise
+<h3>Weakness</h3>
+* Gaps in knowledge and implementation
+* Process and system
+* Completing Projects
+* Unforeseen problems
+<h3>Opportunities</h3>
+* Improve safety
+* Skill advancement
+* Emerging and developing market
+* Changing patterns
+<h3>Threats</h3>
+* Competitor Activities
+* Academic work
+* Scope creep
+* Constraints
+
 <h2> 4 W's and 1 H </h2>
 
 <h3> WHO </h3>
@@ -59,6 +81,7 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 
 
 <h3> Low Level Requirements </h3>
+
 |ID	|Description|	HL_ID	|status|
 |:----:|:------:|:-----:|:------:|
 |L_01|	A user should performs the ' + ' operation to find sum of two numbers|	H_01|	Implemented|
@@ -66,11 +89,11 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 |L_03|	A user should performs the ' * ' operation to find multiplication of two numbers|	H_01|	Implemented|
 |L_04|	A user should performs the ' / ' operation to find divison of two numbers|	H_01|	Implemented|
 |L_05|	A user should performs the ' % ' operation to find modulous of two numbers|	H_01|	Implemented|
-|L_06|	A user should performs the power function to find power of a number|	H_01|	Implemented|
-|L_07|	A user should performs the square function to find square of a number|	H_01|	Implemented|
-|L_08|	A user should performs the sqrt function to find square root of a number|	H_01|	Implemented|
-|L_09|	A user should performs the cube function to find cube  of a number|	H_01|	Implemented|
-|L_10|	A user should performs the cbrt function to find cube root of a number|	H_01|	Implemented|
-|L_11|	A user should performs the log function to find logarithm of a number|	H_01|	Implemented|
-|L_12|	A user should performs the factorial function to find factorial of a number|	H_01|	Implemented|
+|L_06|	A user should performs the power function to find power of a number|	H_02|	Implemented|
+|L_07|	A user should performs the square function to find square of a number|	H_02|	Implemented|
+|L_08|	A user should performs the sqrt function to find square root of a number|	H_02|	Implemented|
+|L_09|	A user should performs the cube function to find cube  of a number|	H_02|	Implemented|
+|L_10|	A user should performs the cbrt function to find cube root of a number|	H_02|	Implemented|
+|L_11|	A user should performs the log function to find logarithm of a number|	H_02|	Implemented|
+|L_12|	A user should performs the factorial function to find factorial of a number|	H_02|	Implemented|
 
