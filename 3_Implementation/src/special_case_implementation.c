@@ -29,38 +29,50 @@ void special_operation()
         {
             exit(0);
         }
-        printf("\nEnter the value\n");
-        scanf("%d",&local_value);
-        value.number=local_value;
+	    
+	else if(choice==1 || choice==2 || choice==3 || choice==4 || choice==5)
+        {
+             printf("\nEnter the  two value \n");
+             scanf("%d",&local_value);
+             value.number=local_value;
+        }
+        else if(choice==6)
+        {
+            
+             printf("\nEnter the value \n");
+             scanf("%d",&local_value);
+             value_1.number=local_value;
+        }   
+	   
         switch(choice)
         {
             case SQR:
-            logg(value,&ans);
+            sqrr(value,&ans);
             printf("%.2f",ans.final_answer);
             break;
 
             case SQRT:
-            power(valuee,&ans);
+            sqrtt(valuee,&ans);
             printf("%.2f",ans.final_answer);
             break;
             
             case CUB:
-            sqrtt(value,&ans);
+            cubee(value,&ans);
             printf("%.2f",ans.final_answer);
 			
 	    case CUBRT:
-            logg(value,&ans);
+            cubert(value,&ans);
             printf("%.2f",ans.final_answer);
             break;
 
             case LOG:
-            power(valuee,&ans);
+            logg(valuee,&ans);
             printf("%.2f",ans.final_answer);
             break;
             
             case FACT:
-            sqrtt(value,&ans);
-            printf("%.2f",ans.final_answer);
+            factorial(value_1,&anss);
+            printf("%d",anss.final_answer);
 
             default:
             exit(0);
